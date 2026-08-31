@@ -151,7 +151,7 @@ O desenvolvimento também utilizou branches e Pull Request para integrar as alte
 
 O repositório está organizado de acordo com as principais etapas de processamento do projeto:
 
-atmos-databricks-
+atmos-databricks
 │
 ├── 01 - Create Bronze/
 │   └── Ingest_raw.ipynb
